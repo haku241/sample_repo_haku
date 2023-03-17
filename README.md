@@ -1,6 +1,6 @@
-#sample_git_team
+# sample_git_team
 
-##簡単なポートフォリオサイトの作成
+## 簡単なポートフォリオサイトの作成
 #### TODO
 
 *index.htmlの作成 -> 担当Aさん
